@@ -17,3 +17,5 @@ This is section 2.
 > Another test after reconfiguring the signing key.
 
 > I know what's wrong, becuz I forgot to -S when committing.
+
+> Another test after reconfiguring the signing key because im stupid.
