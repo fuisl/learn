@@ -10,4 +10,8 @@ This is section 1.
 
 This is section 2.
 
-{% asd %}
+{% note %}
+
+**Note:** Owners and administrators can add outside collaborators to a repository.
+
+{% endnote %}
